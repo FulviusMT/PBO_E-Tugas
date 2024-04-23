@@ -3,7 +3,7 @@ package com.modul3;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Student extends User {
+public class Student extends User {
     private String name;
     private String nim;
     private String faculty;
